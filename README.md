@@ -1,6 +1,5 @@
 
-# Depression Detection and Scoring by BCI and AI
-Depression Detection using Twitter data
+# Depression Detection and Scoring 
 
 1. [Project Motivation](#motivation)
 2. [Proposed Model](#proposedModel)
@@ -24,7 +23,7 @@ This BCI system is expected to be used as a complementary tool to monitor the de
 Red lines represent signifcant phase synchronization; blue lines represent signifcant phase desynchronization.
 
 <p align="center">
-  <img src="images/functional brain connections by EEG.bmp">
+  <img src="image/functional brain connections by EEG.bmp">
 </p>
 
 Li, Y., Kang, C., Qu, X., Zhou, Y., Wang, W., & Hu, Y. (2016). Depression-related brain connectivity analyzed by EEG event-related phase synchrony measure. Frontiers in human neuroscience , 10 , 477.
