@@ -90,6 +90,51 @@ The algorithm, which estimated by 10-fold CV, attained average accuracy rate ran
 - Longitudinal tracking, and the estimation of the antidepressant drug treatment.
 
 
+## Reference
+
+__Note__: If you use this repository in your research, we kindly request you to cite the following papers:
+
+* Li, Y.#, Kang, C.#, Qu, X., Zhou, Y., Wang, W., & Hu, Y. (2016). Depression-related brain connectivity analyzed by EEG event-related phase synchrony measure. Frontiers in human neuroscience , 10 , 477.
+* Li, Y.#, Kang, C#., Wei, Z., Qu, X., Liu, T., Zhou, Y., & Hu, Y. (2017). Beta oscillations in major depression – signaling a new cortical circuit for central executive function. Scientific reports , 7 (1), 1-15.
+* Kang, C.#, Li, Y.#, Novak, D., Zhang, Y., Zhou, Q., & Hu, Y. (2020). Brain Networks of Maintenance, Inhibition and Disinhibition During Working Memory. IEEE Transactions on Neural Systems and Rehabilitation Engineering, 28(7), 1518-1527.
+* Kang, C.et.al.(2021). CLASSIFYING AND SCORING MAJOR DEPRESSIVE DISORDER USING FREQUENCY BANDS, CHANNELS SELECTION WITH RESIDUAL NEURAL NETWORKS. (under review) 
+
+Bibtex:
+
+```bibtex
+@article{li2016depression,
+  title={Depression-related brain connectivity analyzed by EEG event-related phase synchrony measure},
+  author={Li, Yuezhi and Kang, Cheng and Qu, Xingda and Zhou, Yunfei and Wang, Wuyi and Hu, Yong},
+  journal={Frontiers in human neuroscience},
+  volume={10},
+  pages={477},
+  year={2016},
+  publisher={Frontiers}
+}
+
+@article{li2017beta,
+  title={Beta oscillations in major depression--signalling a new cortical circuit for central executive function},
+  author={Li, Yuezhi and Kang, Cheng and Wei, Zhaoguo and Qu, Xingda and Liu, Tiebang and Zhou, Yunfei and Hu, Yong},
+  journal={Scientific reports},
+  volume={7},
+  number={1},
+  pages={1--15},
+  year={2017},
+  publisher={Nature Publishing Group}
+}
+
+@article{kang2020brain,
+  title={Brain networks of maintenance, inhibition and disinhibition during working memory},
+  author={Kang, Cheng and Li, Yuezhi and Novak, Daniel and Zhang, Yudong and Zhou, Qinghua and Hu, Yong},
+  journal={IEEE Transactions on Neural Systems and Rehabilitation Engineering},
+  volume={28},
+  number={7},
+  pages={1518--1527},
+  year={2020},
+  publisher={IEEE}
+}
+```
+
 ## Contributors<a name="contributors"></a>
 
 Contributor | Email
