@@ -76,8 +76,7 @@ You can download the Woring Memory (WM) EEG data from https://drive.google.com/f
 ## Formal Locations of Electrodes
 <p align="left">
   <img src="images/location_name.bmp">
-</p>
-<p align="right">
+</p><p align="right">
   <img src="images/location_number.bmp">
 </p>
 
