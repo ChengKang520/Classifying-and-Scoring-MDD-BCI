@@ -74,13 +74,9 @@ Downlowd the eeglab from https://eeglab.org/ and the SIFT toolbox https://github
 You can download the Woring Memory (WM) EEG data from https://drive.google.com/file/d/1PqFsi4QghR9A2JKFId4JM9fFbfvwcOSl/view?usp=sharing
 
 ## Formal Locations of Electrodes
- | 
+Electrod location (Name) | Electrod location (Number)
 ------------ | -------------
-<p align="left">
-  <img src="images/location_name.bmp">
-</p> | <p align="right">
-  <img src="images/location_number.bmp">
-</p>
+<p align="left"><img src="images/location_name.bmp"></p> | <p align="right"> | <img src="images/location_number.bmp"></p>
 
 ## Current Achievement<a name="achievement"></a>
 
