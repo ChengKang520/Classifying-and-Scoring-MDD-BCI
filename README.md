@@ -76,7 +76,12 @@ You can download the Woring Memory (WM) EEG data from https://drive.google.com/f
 ## Formal Locations of Electrodes
 Electrod location (Name) | Electrod location (Number)
 ------------ | -------------
-<p align="left"><img src="images/location_name.bmp"></p> | <p align="right"> | <img src="images/location_number.bmp"></p>
+<p align="left"><img src="images/location_name.bmp"></p> | <p align="right"><img src="images/location_number.bmp"></p>
+
+| Electrod location (Name) | Electrod location (Number) | 
+| :-:   | :-:      | 
+|  <p align="left"><img src="images/location_name.bmp"></p>   |  <p align="right"><img src="images/location_number.bmp"></p> | 
+
 
 ## Current Achievement<a name="achievement"></a>
 
