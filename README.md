@@ -26,9 +26,9 @@ Red lines represent signifcant phase synchronization; blue lines represent signi
   <img src="images/functional brain connections by EEG.bmp">
 </p>
 
-Li, Y., Kang, C., Qu, X., Zhou, Y., Wang, W., & Hu, Y. (2016). Depression-related brain connectivity analyzed by EEG event-related phase synchrony measure. Frontiers in human neuroscience , 10 , 477.
+Li, Y.#, Kang, C.#, Qu, X., Zhou, Y., Wang, W., & Hu, Y. (2016). Depression-related brain connectivity analyzed by EEG event-related phase synchrony measure. Frontiers in human neuroscience , 10 , 477.
 
-Li, Y., Kang, C., Wei, Z., Qu, X., Liu, T., Zhou, Y., & Hu, Y. (2017). Beta oscillations in major depression – signaling a new cortical circuit for central executive function. Scientific reports , 7 (1), 1-15.
+Li, Y.#, Kang, C#., Wei, Z., Qu, X., Liu, T., Zhou, Y., & Hu, Y. (2017). Beta oscillations in major depression – signaling a new cortical circuit for central executive function. Scientific reports , 7 (1), 1-15.
 
 #### The illustration of Functional Brain Networks by Phase Synchronization when Comparing Depressive Severities.
 
@@ -48,7 +48,7 @@ this figure illustraed the result on using general partial derected coherence (G
   <img src="images/Figure 5 GPDC result.bmp">
 </p>
 
-Kang, C., Li, Y., Novak, D., Zhang, Y., Zhou, Q., & Hu, Y. (2020). Brain Networks of Maintenance, Inhibition and Disinhibition During Working Memory. IEEE Transactions on Neural Systems and Rehabilitation Engineering, 28(7), 1518-1527.
+Kang, C.#, Li, Y.#, Novak, D., Zhang, Y., Zhou, Q., & Hu, Y. (2020). Brain Networks of Maintenance, Inhibition and Disinhibition During Working Memory. IEEE Transactions on Neural Systems and Rehabilitation Engineering, 28(7), 1518-1527.
 
 ### Residual Neural Networks for classifying deoression and scoring depressive severeties 
 
