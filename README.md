@@ -23,7 +23,7 @@ This BCI system is expected to be used as a complementary tool to monitor the de
 Red lines represent signifcant phase synchronization; blue lines represent signifcant phase desynchronization.
 
 <p align="center">
-  <img src="image/functional brain connections by EEG.bmp">
+  <img src="images/functional brain connections by EEG.bmp">
 </p>
 
 Li, Y., Kang, C., Qu, X., Zhou, Y., Wang, W., & Hu, Y. (2016). Depression-related brain connectivity analyzed by EEG event-related phase synchrony measure. Frontiers in human neuroscience , 10 , 477.
@@ -35,7 +35,7 @@ Li, Y., Kang, C., Wei, Z., Qu, X., Liu, T., Zhou, Y., & Hu, Y. (2017). Beta osci
 Clustering of some significantly increased and decreased phase synchronization indices mainly in beta bands for both the two depression groups and control groups. 
 
 <p align="center">
-  <img src="image/Figure 4 funtional brain networks.bmp">
+  <img src="images/Figure 4 funtional brain networks.bmp">
 </p>
 
 
@@ -45,7 +45,7 @@ Clustering of some significantly increased and decreased phase synchronization i
 this figure illustraed the result on using general partial derected coherence (GPDC) to construct the brain functional directed networks.
 
 <p align="center">
-  <img src="image/Figure 5 GPDC result.bmp">
+  <img src="images/Figure 5 GPDC result.bmp">
 </p>
 
 Kang, C., Li, Y., Novak, D., Zhang, Y., Zhou, Q., & Hu, Y. (2020). Brain Networks of Maintenance, Inhibition and Disinhibition During Working Memory. IEEE Transactions on Neural Systems and Rehabilitation Engineering, 28(7), 1518-1527.
@@ -56,7 +56,7 @@ From this figure, we can catch the struture of the designed ResNet particularly 
 
 
 <p align="center">
-  <img src="image/Structure of study - finnal.bmp">
+  <img src="images/Structure of study - finnal.bmp">
 </p>
 
 Please refer to this papers:
@@ -75,10 +75,10 @@ You can download the Woring Memory (WM) EEG data from https://drive.google.com/f
 
 ## Formal Locations of Electrodes
 <p align="left">
-  <img src="image/location_name.bmp">
+  <img src="images/location_name.bmp">
 </p>
 <p align="right">
-  <img src="image/location_number.bmp">
+  <img src="images/location_number.bmp">
 </p>
 
 ## Current Achievement<a name="achievement"></a>
